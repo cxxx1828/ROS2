@@ -62,6 +62,7 @@ colcon build
 source install/setup.bash
 ```
 
+
 Run the system:
 ```bash
 # Terminal 1
